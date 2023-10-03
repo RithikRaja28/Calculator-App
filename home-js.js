@@ -1,3 +1,3 @@
 function open_main(){
-    window.location.href= "calc.html";
+    window.location.href= "index.html";
 }
